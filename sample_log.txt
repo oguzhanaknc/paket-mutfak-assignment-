@@ -1,0 +1,1002 @@
+SEPETNO#1
+ 	 item#1 (41.14512978522121, 29.003656554873167), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14512978522121,29.003656554873167 
+
+ 	 item#2 (41.153627561323574, 29.004325420523013), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.153627561323574,29.004325420523013 
+
+ 	 item#3 (41.15958388894612, 29.00632184684947), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15958388894612,29.00632184684947 
+
+ 	 item#4 (41.15759438576234, 29.00179512115575), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15759438576234,29.00179512115575 
+
+ 	 item#5 (41.15878228287743, 29.007278842818668), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15878228287743,29.007278842818668 
+
+ 	 item#6 (41.141950253085824, 28.996446623091824), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.141950253085824,28.996446623091824 
+
+ 	 item#7 (41.14823067763597, 28.994555382129292), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14823067763597,28.994555382129292 
+
+ 	 item#8 (41.147233730942105, 28.99725239815019), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.147233730942105,28.99725239815019 
+
+ 	 item#9 (41.153723697473595, 29.007552820322744), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.153723697473595,29.007552820322744 
+
+ 	 item#10 (41.152078239672406, 29.01042679839976), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.152078239672406,29.01042679839976 
+
+ 	 item#11 (41.148404328645135, 29.007068990863807), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.148404328645135,29.007068990863807 
+
+ 	 item#12 (41.158810011244185, 29.001398439993196), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.158810011244185,29.001398439993196 
+
+ 	 item#13 (41.159700592453994, 28.9905814484663), Saklı Konutlar, Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.159700592453994,28.9905814484663 
+
+ 	 item#14 (41.14758246435033, 29.001660859160364), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14758246435033,29.001660859160364 
+
+ 	 item#15 (41.146022365846534, 29.00439871277825), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.146022365846534,29.00439871277825 
+
+ 	 item#16 (41.1533956769166, 28.995215646157934), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1533956769166,28.995215646157934 
+
+ 	 item#17 (41.14676628849878, 29.010444518346294), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14676628849878,29.010444518346294 
+
+ 	 item#18 (41.15124465590094, 29.009538890748352), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15124465590094,29.009538890748352 
+
+ 	 item#19 (41.15364067494174, 29.00621397742692), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15364067494174,29.00621397742692 
+
+ 	 item#20 (41.14619696756134, 28.99663175930909), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14619696756134,28.99663175930909 
+
+ 	 item#21 (41.15734334939769, 29.007905699349397), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15734334939769,29.007905699349397 
+
+ 	 item#22 (41.14373764453467, 29.005804326155108), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14373764453467,29.005804326155108 
+
+ 	 item#23 (41.14644069596695, 28.993496472105967), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14644069596695,28.993496472105967 
+
+ 	 item#24 (41.15043557592962, 28.996414828549163), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15043557592962,28.996414828549163 
+
+ 	 item#25 (41.15363944606417, 29.005927283403793), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15363944606417,29.005927283403793 
+SEPETNO#2
+ 	 item#1 (41.09959372668449, 29.03825988348701), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09959372668449,29.03825988348701 
+
+ 	 item#2 (41.10251637079922, 29.039862774552212), Posta Yolu Caddesi, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10251637079922,29.039862774552212 
+
+ 	 item#3 (41.10595974282475, 29.0392588800461), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10595974282475,29.0392588800461 
+
+ 	 item#4 (41.112795756871876, 29.039663596225857), Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.112795756871876,29.039663596225857 
+
+ 	 item#5 (41.113739201778095, 29.042449531756557), Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.113739201778095,29.042449531756557 
+
+ 	 item#6 (41.099890362097135, 29.037358577321548), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.099890362097135,29.037358577321548 
+
+ 	 item#7 (41.09766092452472, 29.043629612193456), Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09766092452472,29.043629612193456 
+
+ 	 item#8 (41.11137367209513, 29.031254697261012), İstinye Park evleri, Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11137367209513,29.031254697261012 
+
+ 	 item#9 (41.100972990211645, 29.03657442763381), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.100972990211645,29.03657442763381 
+
+ 	 item#10 (41.106843708086046, 29.032215569830623), ARI-3, İTÜ Maslak Kampüsü, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.106843708086046,29.032215569830623 
+
+ 	 item#11 (41.09110682483223, 29.0420850349818), 2. Çevre Yolu, Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09110682483223,29.0420850349818 
+
+ 	 item#12 (41.109070525375195, 29.04971294630748), Katar Caddesi, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.109070525375195,29.04971294630748 
+
+ 	 item#13 (41.09435296132868, 29.04722307957475), Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09435296132868,29.04722307957475 
+
+ 	 item#14 (41.100128022519435, 29.04378128251798), Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.100128022519435,29.04378128251798 
+
+ 	 item#15 (41.104444912699904, 29.037309269310164), Hacı Sokağı, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.104444912699904,29.037309269310164 
+
+ 	 item#16 (41.10409380670955, 29.038551854787016), Hacı Sokağı, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10409380670955,29.038551854787016 
+
+ 	 item#17 (41.10859774047371, 29.02583972220655), Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10859774047371,29.02583972220655 
+
+ 	 item#18 (41.10500755570697, 29.044677100157966), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10500755570697,29.044677100157966 
+
+ 	 item#19 (41.09518182170917, 29.041707647316965), Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09518182170917,29.041707647316965 
+
+ 	 item#20 (41.09246417616955, 29.04311154770123), Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09246417616955,29.04311154770123 
+
+ 	 item#21 (41.1040162333179, 29.045106203006434), Şirin Sokağı, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1040162333179,29.045106203006434 
+
+ 	 item#22 (41.10553675118233, 29.027735212284288), İstanbul Teknik Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10553675118233,29.027735212284288 
+
+ 	 item#23 (41.10422665008404, 29.02899775790207), İstanbul Teknik Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10422665008404,29.02899775790207 
+
+ 	 item#24 (41.110262950304836, 29.033817414871812), İstinye Park, Sarıyer Caddesi, Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.110262950304836,29.033817414871812 
+SEPETNO#3
+ 	 item#1 (41.11637616218967, 28.971669736933148), Kemerburgaz Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11637616218967,28.971669736933148 
+
+ 	 item#2 (41.11511385540529, 28.973560289095595), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11511385540529,28.973560289095595 
+
+ 	 item#3 (41.10820715398394, 28.973043903909108), Koçak Farma Serum Üretim Tesisleri, Kemerburgaz Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10820715398394,28.973043903909108 
+
+ 	 item#4 (41.11013392553391, 28.977297325190396), Kemerburgaz Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11013392553391,28.977297325190396 
+
+ 	 item#5 (41.104995908604394, 28.97785053366825), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.104995908604394,28.97785053366825 
+
+ 	 item#6 (41.10635359522756, 28.986864916245114), Vadiistanbul Alışveriş Merkezi, 3/C, Azerbaycan Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10635359522756,28.986864916245114 
+
+ 	 item#7 (41.10246672893906, 28.973877928414144), Testone Teknoloji Çözümleri, Selçuklu Caddesi, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10246672893906,28.973877928414144 
+
+ 	 item#8 (41.10443546022905, 28.989182652157393), Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10443546022905,28.989182652157393 
+
+ 	 item#9 (41.10545862922989, 28.97329544278157), Testone Teknoloji Çözümleri, Selçuklu Caddesi, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10545862922989,28.97329544278157 
+
+ 	 item#10 (41.10712262034197, 28.979859251799066), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10712262034197,28.979859251799066 
+
+ 	 item#11 (41.11390927030478, 28.97266268408536), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11390927030478,28.97266268408536 
+
+ 	 item#12 (41.112983883233404, 28.98343976680239), Kemerburgaz Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.112983883233404,28.98343976680239 
+
+ 	 item#13 (41.11054257051741, 28.99044677913296), Mimar Sinan Sokağı, Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11054257051741,28.99044677913296 
+
+ 	 item#14 (41.10936382259926, 28.97076002876472), Koçak Farma Serum Üretim Tesisleri, Kemerburgaz Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10936382259926,28.97076002876472 
+
+ 	 item#15 (41.112659970277114, 28.97594900662673), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.112659970277114,28.97594900662673 
+
+ 	 item#16 (41.106261508693265, 28.977440752041925), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.106261508693265,28.977440752041925 
+
+ 	 item#17 (41.10479861911985, 28.97739845930234), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10479861911985,28.97739845930234 
+
+ 	 item#18 (41.1063935766212, 28.98160678449387), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1063935766212,28.98160678449387 
+SEPETNO#4
+ 	 item#1 (41.15360213245019, 29.0334902959903), Büyükdere Fidanlığı, Sarıyer - Çayırbaşı Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15360213245019,29.0334902959903 
+
+ 	 item#2 (41.15585572004439, 29.034810340724814), Kahta Çiğköfte, Bahçeköy Caddesi, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15585572004439,29.034810340724814 
+
+ 	 item#3 (41.154780714521756, 29.04598050593891), ترابيا, Köybaşı Caddesi, Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.154780714521756,29.04598050593891 
+
+ 	 item#4 (41.14984274721159, 29.04910116777677), Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14984274721159,29.04910116777677 
+
+ 	 item#5 (41.154638927993226, 29.038422259122598), Köybaşı Caddesi, Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.154638927993226,29.038422259122598 
+
+ 	 item#6 (41.15315505105925, 29.03894085064309), Kefeliköy, Köybaşı Caddesi, Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15315505105925,29.03894085064309 
+
+ 	 item#7 (41.147119482865264, 29.03806138460778), Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.147119482865264,29.03806138460778 
+
+ 	 item#8 (41.15867097197912, 29.03850866746547), Piyasa Caddesi, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15867097197912,29.03850866746547 
+
+ 	 item#9 (41.14285937816053, 29.04583612734669), Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14285937816053,29.04583612734669 
+
+ 	 item#10 (41.159576852787126, 29.03867819470101), Büyükdere Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.159576852787126,29.03867819470101 
+
+ 	 item#11 (41.14894040833176, 29.040277818604117), Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14894040833176,29.040277818604117 
+
+ 	 item#12 (41.14416093574414, 29.031784384675113), Şalcıkır Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14416093574414,29.031784384675113 
+
+ 	 item#13 (41.15128081614573, 29.03169713217303), Koleksiyon, Sarıyer - Çayırbaşı Yolu, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15128081614573,29.03169713217303 
+
+ 	 item#14 (41.159161991453104, 29.041878424140045), Belediye, Piyasa Caddesi, Çayırbaşı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.159161991453104,29.041878424140045 
+
+ 	 item#15 (41.150477157185314, 29.032118602734016), Koleksiyon, Sarıyer - Çayırbaşı Yolu, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.150477157185314,29.032118602734016 
+
+ 	 item#16 (41.156108349741416, 29.033821474059668), Özkan 2. Çıkmazı Sokak, Çayırbaşı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.156108349741416,29.033821474059668 
+
+ 	 item#17 (41.14926287653826, 29.04056741611025), Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14926287653826,29.04056741611025 
+SEPETNO#5
+ 	 item#1 (41.07375220577, 29.016572944153573), Yıldız Koleji, Aytar Caddesi, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07375220577,29.016572944153573 
+
+ 	 item#2 (41.07083580712237, 29.010821429783483), Febor Park İstanbul Levent Hotel, 15, Mithat Ünlü Sokağı, Zincirlikuyu, Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07083580712237,29.010821429783483 
+
+ 	 item#3 (41.06245494571385, 29.009111533016576), Hoşsohbet Sokak, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06245494571385,29.009111533016576 
+
+ 	 item#4 (41.060649499175035, 29.0120178520044), Gazi Umur Paşa Sokağı, Balmumcu Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye, https://www.google.com/maps/search/?api=1&query=41.060649499175035,29.0120178520044 
+
+ 	 item#5 (41.06956959363681, 29.022309546280514), Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06956959363681,29.022309546280514 
+
+ 	 item#6 (41.06247476988342, 29.01434971216787), Balmumcu Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06247476988342,29.01434971216787 
+
+ 	 item#7 (41.06945324606796, 29.02526261916903), Selvi Sokağı, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06945324606796,29.02526261916903 
+
+ 	 item#8 (41.071157102541164, 29.02661853934242), Altın Sokağı, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.071157102541164,29.02661853934242 
+
+ 	 item#9 (41.071490827897954, 29.018492743510603), Yücel Sokak, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.071490827897954,29.018492743510603 
+
+ 	 item#10 (41.07125101843464, 29.02012063527393), Birlik Sokağı, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07125101843464,29.02012063527393 
+
+ 	 item#11 (41.064434487183085, 29.007848349592987), T.C Besiktas ilce Tarim ve Orman Mudurlugu, Gönenoğlu Sokağı, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye, https://www.google.com/maps/search/?api=1&query=41.064434487183085,29.007848349592987 
+
+ 	 item#12 (41.066165820706395, 29.02439446131057), Kamer Sitesi, Ulus, Ulus Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.066165820706395,29.02439446131057 
+
+ 	 item#13 (41.06788649197884, 29.0068737340526), Limma, Büyükdere Caddesi, Zincirlikuyu, Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06788649197884,29.0068737340526 
+
+ 	 item#14 (41.076720690893936, 29.010381471342594), Burger King, Dede Korkut Sokak, Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.076720690893936,29.010381471342594 
+
+ 	 item#15 (41.06855330928215, 29.010911115540665), BDDK, Büyükdere Caddesi, Zincirlikuyu, Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06855330928215,29.010911115540665 
+
+ 	 item#16 (41.065997096545374, 29.01456239097731), Beylikdüzü - Zincirlikuyu Metrobüs, Balmumcu Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.065997096545374,29.01456239097731 
+
+ 	 item#17 (41.07088009221279, 29.016706447317777), Cahit Aybar Sokağı, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07088009221279,29.016706447317777 
+
+ 	 item#18 (41.065622295299114, 29.013320430947118), Beylikdüzü - Zincirlikuyu Metrobüs, Balmumcu Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.065622295299114,29.013320430947118 
+
+ 	 item#19 (41.06247977659484, 29.00649452811658), Gönenoğlu Sokağı, Gayrettepe Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34349, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06247977659484,29.00649452811658 
+
+ 	 item#20 (41.06816200178174, 29.021194715953108), Akmerkez Levazım Yolu, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06816200178174,29.021194715953108 
+
+ 	 item#21 (41.06029373151709, 29.017268051455194), Levazım Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06029373151709,29.017268051455194 
+SEPETNO#6
+ 	 item#1 (41.06355417082155, 29.065808591094342), Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06355417082155,29.065808591094342 
+
+ 	 item#2 (41.066084843081796, 29.06108981923978), Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.066084843081796,29.06108981923978 
+
+ 	 item#3 (41.06197292163313, 29.051364780239272), Vaniköy Caddesi, Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06197292163313,29.051364780239272 
+
+ 	 item#4 (41.07175562863853, 29.05893064884712), Sakıp Sabancı Kandilli Eğitim ve Kültür Merkezi, Kandilli Muhacir Sokağı, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07175562863853,29.05893064884712 
+
+ 	 item#5 (41.0632480839164, 29.051335808123056), Vaniköy Caddesi, Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0632480839164,29.051335808123056 
+
+ 	 item#6 (41.06695397031468, 29.066512206247182), Boğaziçi Kandilli Evleri, Küçüksu Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06695397031468,29.066512206247182 
+
+ 	 item#7 (41.07626139362295, 29.06476494256827), 29/1, Kandilli Göksu Caddesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07626139362295,29.06476494256827 
+
+ 	 item#8 (41.07114303823681, 29.063491333583627), 10 Blok, Koru Evleri, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07114303823681,29.063491333583627 
+
+ 	 item#9 (41.072933904366366, 29.04992005989599), Endonezya Başkonsolosluğu, Cevdetpaşa Caddesi, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.072933904366366,29.04992005989599 
+
+ 	 item#10 (41.06035140475016, 29.062821199816682), Boğaziçi Üniversitesi Kandilli Yerleşkesi, Hünkar Sokağı, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06035140475016,29.062821199816682 
+
+ 	 item#11 (41.08178908872752, 29.057498796049), Yahya Kemal Caddesi, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08178908872752,29.057498796049 
+
+ 	 item#12 (41.065814008854844, 29.05828527380636), Vaniköy Caddesi, Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.065814008854844,29.05828527380636 
+
+ 	 item#13 (41.08523957644505, 29.063495099184475), Anadolu Hisarı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08523957644505,29.063495099184475 
+
+ 	 item#14 (41.06713365619452, 29.06726478683804), Boğaziçi Kandilli Evleri, Küçüksu Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06713365619452,29.06726478683804 
+
+ 	 item#15 (41.06702316519625, 29.063788744627324), Demirevler Sitesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06702316519625,29.063788744627324 
+
+ 	 item#16 (41.07207936749205, 29.05896563788425), Sakıp Sabancı Kandilli Eğitim ve Kültür Merkezi, Kandilli Muhacir Sokağı, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07207936749205,29.05896563788425 
+
+ 	 item#17 (41.06809802738194, 29.061590317792533), Demirevler Sitesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06809802738194,29.061590317792533 
+
+ 	 item#18 (41.08361666666767, 29.050661305376305), Boğaziçi Üniversitesi Güney Yerleşkesi, Sehitlikdergahı Sokağı, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08361666666767,29.050661305376305 
+
+ 	 item#19 (41.08620969965257, 29.053535374714826), Ahmet Ağa Sokağı, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08620969965257,29.053535374714826 
+
+ 	 item#20 (41.078636788347225, 29.063276278884725), Göksu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.078636788347225,29.063276278884725 
+
+ 	 item#21 (41.06621931750532, 29.05688581527907), Vaniköy Caddesi, Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06621931750532,29.05688581527907 
+
+ 	 item#22 (41.08343940470538, 29.0687461600493), Anadolu Hisarı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08343940470538,29.0687461600493 
+
+ 	 item#23 (41.08357171923559, 29.054453385738807), Boğaziçi Üniversitesi Güney Yerleşkesi, Sehitlikdergahı Sokağı, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08357171923559,29.054453385738807 
+
+ 	 item#24 (41.07024376703854, 29.054539439906563), 42, Kandilli Caddesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07024376703854,29.054539439906563 
+
+ 	 item#25 (41.07776347441861, 29.063379901684122), Küçüksu Plajı Yaya Yolu, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07776347441861,29.063379901684122 
+
+ 	 item#26 (41.08011113368842, 29.063534845546886), Küçüksu, Küçüksu Caddesi, Göksu Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34815, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08011113368842,29.063534845546886 
+
+ 	 item#27 (41.069790147232645, 29.053351324461303), 42, Kandilli Caddesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.069790147232645,29.053351324461303 
+
+ 	 item#28 (41.06352012912721, 29.05416399504369), Vaniköy Caddesi, Vaniköy, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06352012912721,29.05416399504369 
+
+ 	 item#29 (41.072722965488985, 29.056472096736375), 3, Sıraevler Sokağı, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.072722965488985,29.056472096736375 
+
+ 	 item#30 (41.07468814597615, 29.058931725545754), Viewpoint, Kandilli Göksu Caddesi, Kandilli Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07468814597615,29.058931725545754 
+
+ 	 item#31 (41.086803304368026, 29.050906403140697), Nafi Baba Sokağı, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.086803304368026,29.050906403140697 
+
+ 	 item#32 (41.06651814712217, 29.06588267679369), Rasathane Caddesi, Küçüksu Mahallesi, Üsküdar, İstanbul, Marmara Bölgesi, 34684, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06651814712217,29.06588267679369 
+
+ 	 item#33 (41.08586425913698, 29.050316471199793), Boğaziçi Üniversitesi Güney Yerleşkesi, Sehitlikdergahı Sokağı, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08586425913698,29.050316471199793 
+
+ 	 item#34 (41.079574365011496, 29.055420914632617), Aşiyan, Yahya Kemal Caddesi, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.079574365011496,29.055420914632617 
+SEPETNO#7
+ 	 item#1 (41.119666086092266, 29.064602741764514), Sandoz Sitesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.119666086092266,29.064602741764514 
+
+ 	 item#2 (41.123318733778, 29.07043015072489), Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.123318733778,29.07043015072489 
+
+ 	 item#3 (41.122729767204426, 29.054382728947303), Nar Çiçeği Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.122729767204426,29.054382728947303 
+
+ 	 item#4 (41.12757253245562, 29.052620717211827), Kafkas Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12757253245562,29.052620717211827 
+
+ 	 item#5 (41.12506203604102, 29.045175131519624), Ferahevler Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12506203604102,29.045175131519624 
+
+ 	 item#6 (41.123313587099965, 29.06027395268487), Tümen Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.123313587099965,29.06027395268487 
+
+ 	 item#7 (41.11728127954941, 29.044594733508465), ABD Başkonsolosluğu, 75, Sarıyer Caddesi, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11728127954941,29.044594733508465 
+
+ 	 item#8 (41.12531525309058, 29.067038436299246), Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12531525309058,29.067038436299246 
+
+ 	 item#9 (41.13535280511493, 29.048779002180236), Ferahevler Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13535280511493,29.048779002180236 
+
+ 	 item#10 (41.122456438717336, 29.048038396842646), Eylem Sokağı, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.122456438717336,29.048038396842646 
+
+ 	 item#11 (41.13258012164106, 29.06232215064587), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13258012164106,29.06232215064587 
+
+ 	 item#12 (41.12617194515863, 29.06451161351803), Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12617194515863,29.06451161351803 
+
+ 	 item#13 (41.13198128494541, 29.053038053941563), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13198128494541,29.053038053941563 
+
+ 	 item#14 (41.11833018455116, 29.068682875728324), Erbilgin Yalısı, Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11833018455116,29.068682875728324 
+
+ 	 item#15 (41.124181255815515, 29.068740842825697), Besi Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.124181255815515,29.068740842825697 
+
+ 	 item#16 (41.11826389772788, 29.051259251539275), İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11826389772788,29.051259251539275 
+
+ 	 item#17 (41.11306296059385, 29.056794739478303), İstinye, Katar Caddesi, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11306296059385,29.056794739478303 
+
+ 	 item#18 (41.11188914095703, 29.051042135150034), Boğaziçi Caddesi, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11188914095703,29.051042135150034 
+
+ 	 item#19 (41.12943059022929, 29.070135422297113), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12943059022929,29.070135422297113 
+
+ 	 item#20 (41.1237507439396, 29.05187925871213), Şehit Muharrem Kerem Yıldız İmam Hatip Ortaokulu, Altınordu Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1237507439396,29.05187925871213 
+
+ 	 item#21 (41.124171018053346, 29.064435985219127), Kumsuyu Özgür Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.124171018053346,29.064435985219127 
+
+ 	 item#22 (41.112408108520725, 29.051566866587837), Bostan Koru Üstü Sokağı, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.112408108520725,29.051566866587837 
+
+ 	 item#23 (41.12506168789671, 29.056607328493772), Kabiller Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12506168789671,29.056607328493772 
+
+ 	 item#24 (41.1242716368103, 29.045784955928355), Ferahevler Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1242716368103,29.045784955928355 
+
+ 	 item#25 (41.1206846208284, 29.054459074387186), Nar Çiçeği Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1206846208284,29.054459074387186 
+
+ 	 item#26 (41.11364712448728, 29.05207173951581), Bostan Sokağı, İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11364712448728,29.05207173951581 
+
+ 	 item#27 (41.12199528112268, 29.057086632476015), Yüce Sokağı, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12199528112268,29.057086632476015 
+SEPETNO#8
+ 	 item#1 (41.08277720791768, 28.9921849671649), Çevre Sokağı, Harmantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08277720791768,28.9921849671649 
+
+ 	 item#2 (41.080731533047626, 29.002359362237158), Özyurt Sokağı, Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.080731533047626,29.002359362237158 
+
+ 	 item#3 (41.08163006760527, 29.011576952873252), Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08163006760527,29.011576952873252 
+
+ 	 item#4 (41.08522452302465, 28.993346633693193), Doğu Sokağı, Harmantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08522452302465,28.993346633693193 
+
+ 	 item#5 (41.08339649887898, 28.993104757019033), Doğu Sokağı, Harmantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08339649887898,28.993104757019033 
+
+ 	 item#6 (41.08159271425263, 28.997284972612874), Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08159271425263,28.997284972612874 
+
+ 	 item#7 (41.092342015362114, 28.99919110333447), Harman Sokağı, Sultan Selim Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34018, Türkiye, https://www.google.com/maps/search/?api=1&query=41.092342015362114,28.99919110333447 
+
+ 	 item#8 (41.09627745014065, 28.9926505159102), Çelebi Sokağı, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09627745014065,28.9926505159102 
+
+ 	 item#9 (41.08728954340896, 28.998396571043084), Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08728954340896,28.998396571043084 
+
+ 	 item#10 (41.08088703784869, 28.990817158684866), Harmantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08088703784869,28.990817158684866 
+
+ 	 item#11 (41.084320447056335, 29.005557458394172), İETT Esentepe Garajı, İsmet İnönü Cd., Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.084320447056335,29.005557458394172 
+
+ 	 item#12 (41.081606223769775, 28.98963662267768), Uyanık Sokağı, Harmantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.081606223769775,28.98963662267768 
+
+ 	 item#13 (41.07697263684709, 28.995975119543594), Telsizler Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07697263684709,28.995975119543594 
+
+ 	 item#14 (41.096523491258495, 28.996064343235393), Çilek Sokağı, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.096523491258495,28.996064343235393 
+
+ 	 item#15 (41.077500236598596, 29.00131065422852), Ortabayır Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.077500236598596,29.00131065422852 
+
+ 	 item#16 (41.081383328127856, 29.01224418246899), Yapıkredi Plaza A Blok, Prof. Kemal Ahet Aru Sokağı, Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.081383328127856,29.01224418246899 
+
+ 	 item#17 (41.08431061575467, 29.00249020458703), Buhara Sokağı, Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08431061575467,29.00249020458703 
+
+ 	 item#18 (41.08674804914002, 28.99805606212488), Çeliktepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08674804914002,28.99805606212488 
+
+ 	 item#19 (41.09650030356415, 29.000467390709566), Değirmen Sokağı, Yeşilce Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34418, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09650030356415,29.000467390709566 
+
+ 	 item#20 (41.07933953977122, 29.011009819117675), Esentepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07933953977122,29.011009819117675 
+
+ 	 item#21 (41.079249059351156, 29.006590225869157), Mevlana Pide, Talatpaşa Caddesi, Ortabayır Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.079249059351156,29.006590225869157 
+
+ 	 item#22 (41.0780205905516, 29.006628247801373), Erözcan Apt, 24, Atalar Caddesi, Ortabayır Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34413, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0780205905516,29.006628247801373 
+
+ 	 item#23 (41.08553724408146, 28.993635190210135), Keçideresi Caddesi, Yahya Kemal Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08553724408146,28.993635190210135 
+SEPETNO#9
+ 	 item#1 (41.13316253829473, 28.987044280846792), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13316253829473,28.987044280846792 
+
+ 	 item#2 (41.130724446163356, 28.982215007151947), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.130724446163356,28.982215007151947 
+
+ 	 item#3 (41.1289260041273, 28.979293092799338), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1289260041273,28.979293092799338 
+
+ 	 item#4 (41.127412142386376, 28.974003917213995), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.127412142386376,28.974003917213995 
+
+ 	 item#5 (41.127394474285, 28.979062581801713), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.127394474285,28.979062581801713 
+
+ 	 item#6 (41.12597514585944, 28.986100526881433), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12597514585944,28.986100526881433 
+
+ 	 item#7 (41.12390807937286, 28.98511887341405), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12390807937286,28.98511887341405 
+
+ 	 item#8 (41.11855697365933, 28.990435342954115), 180. Sokak, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11855697365933,28.990435342954115 
+
+ 	 item#9 (41.11282671258759, 28.993771817822772), 131. Sokak, Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11282671258759,28.993771817822772 
+
+ 	 item#10 (41.12481897330822, 28.989452979579127), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12481897330822,28.989452979579127 
+
+ 	 item#11 (41.12874946475547, 28.977083066938242), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12874946475547,28.977083066938242 
+
+ 	 item#12 (41.11897724113703, 28.977299672024742), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11897724113703,28.977299672024742 
+
+ 	 item#13 (41.126230373815055, 28.99263485659419), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.126230373815055,28.99263485659419 
+
+ 	 item#14 (41.11972348476802, 28.986514464569346), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11972348476802,28.986514464569346 
+
+ 	 item#15 (41.13049719048783, 28.99196117642399), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13049719048783,28.99196117642399 
+
+ 	 item#16 (41.13071578955353, 28.985604281453863), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13071578955353,28.985604281453863 
+SEPETNO#10
+ 	 item#1 (41.12390478667419, 29.034841833667645), Daruşşafaka, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12390478667419,29.034841833667645 
+
+ 	 item#2 (41.1217831419471, 29.02635467666282), Maslak Kasırları (Milli Saraylar), Büyükdere Caddesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1217831419471,29.02635467666282 
+
+ 	 item#3 (41.13062188146221, 29.028477546952384), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13062188146221,29.028477546952384 
+
+ 	 item#4 (41.13068464015651, 29.03593939326608), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13068464015651,29.03593939326608 
+
+ 	 item#5 (41.12792967742567, 29.03193749494945), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12792967742567,29.03193749494945 
+
+ 	 item#6 (41.12510870174268, 29.029194346611735), Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12510870174268,29.029194346611735 
+
+ 	 item#7 (41.12236508158197, 29.030834590789688), Daruşşafaka, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12236508158197,29.030834590789688 
+
+ 	 item#8 (41.127994255236054, 29.02077621283069), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.127994255236054,29.02077621283069 
+
+ 	 item#9 (41.117698773154665, 29.038456154067244), Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.117698773154665,29.038456154067244 
+
+ 	 item#10 (41.11648392856289, 29.021962041927054), AOS 42. Sokak, Maslak Atatürk Oto Sanayi Sitesi, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11648392856289,29.021962041927054 
+
+ 	 item#11 (41.12986319004171, 29.019754028504106), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12986319004171,29.019754028504106 
+
+ 	 item#12 (41.12779540521396, 29.029043512861904), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12779540521396,29.029043512861904 
+
+ 	 item#13 (41.118578285630846, 29.02424454999829), Maslak Kasırları (Milli Saraylar), Büyükdere Caddesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.118578285630846,29.02424454999829 
+
+ 	 item#14 (41.1330816499112, 29.019412960658688), İstanbul Orman Bölge Müdürlüğü, Büyükdere Caddesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1330816499112,29.019412960658688 
+
+ 	 item#15 (41.11860135437519, 29.03431870641604), Ezel Sokağı, Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11860135437519,29.03431870641604 
+
+ 	 item#16 (41.12251722971523, 29.033441581484226), Gazeteciler Sitesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12251722971523,29.033441581484226 
+
+ 	 item#17 (41.11753331477538, 29.03239920042799), Fener Çiçeği Sokağı, Pınar Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11753331477538,29.03239920042799 
+
+ 	 item#18 (41.12784206898994, 29.03308770871315), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12784206898994,29.03308770871315 
+
+ 	 item#19 (41.128897954219184, 29.025573319655987), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.128897954219184,29.025573319655987 
+
+ 	 item#20 (41.126422818320634, 29.035058700557336), Çağdaş Sokağı, Daruşşafaka, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.126422818320634,29.035058700557336 
+
+ 	 item#21 (41.137335968483846, 29.034944657779906), Tarabya Bayırı Caddesi, Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.137335968483846,29.034944657779906 
+
+ 	 item#22 (41.12845500183863, 29.035129827192165), Huzur Sokağı, Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12845500183863,29.035129827192165 
+
+ 	 item#23 (41.123730604479476, 29.024341436735618), Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.123730604479476,29.024341436735618 
+
+ 	 item#24 (41.11384190633389, 29.027210698166904), Balaban Dere Caddesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11384190633389,29.027210698166904 
+
+ 	 item#25 (41.13703735621707, 29.0329583758937), Tarabya Bayırı Caddesi, Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13703735621707,29.0329583758937 
+
+ 	 item#26 (41.13437858535548, 29.028320179274914), Boğaziçi İmar Müdürlüğü, Büyükdere Caddesi, Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13437858535548,29.028320179274914 
+
+ 	 item#27 (41.13219240045073, 29.03734475632956), Şehit Uğur Taşçı İlk-Orta Okulu, Cilo Sokağı, Ferahevler Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13219240045073,29.03734475632956 
+
+ 	 item#28 (41.13351141666109, 29.03330689382885), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13351141666109,29.03330689382885 
+
+ 	 item#29 (41.12754805803891, 29.020101024500196), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12754805803891,29.020101024500196 
+
+ 	 item#30 (41.13216877229097, 29.027068317162456), Çamlıtepe Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13216877229097,29.027068317162456 
+
+ 	 item#31 (41.127860500832, 29.035702439515617), Daruşşafaka, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.127860500832,29.035702439515617 
+
+ 	 item#32 (41.11770687430077, 29.04005714870416), Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11770687430077,29.04005714870416 
+
+ 	 item#33 (41.12121009230948, 29.041454673752785), Poligon Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12121009230948,29.041454673752785 
+
+ 	 item#34 (41.12169020643117, 29.024304387870885), Büyükdere Caddesi, Darüşşafaka Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12169020643117,29.024304387870885 
+SEPETNO#11
+ 	 item#1 (41.10660287730748, 29.065337088201094), Ahmet Rasim Paşa Yalısı, Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10660287730748,29.065337088201094 
+
+ 	 item#2 (41.10597463524208, 29.070453451172675), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10597463524208,29.070453451172675 
+
+ 	 item#3 (41.103887363352165, 29.067675641130162), İspark, Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.103887363352165,29.067675641130162 
+
+ 	 item#4 (41.09581635137023, 29.065090260232623), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09581635137023,29.065090260232623 
+
+ 	 item#5 (41.09819844402103, 29.06154326693691), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09819844402103,29.06154326693691 
+
+ 	 item#6 (41.097280610454895, 29.05098017628353), Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.097280610454895,29.05098017628353 
+
+ 	 item#7 (41.09604727000574, 29.069696056769107), Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09604727000574,29.069696056769107 
+
+ 	 item#8 (41.09989021202102, 29.06629034295243), Kanlıca Camii, Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09989021202102,29.06629034295243 
+
+ 	 item#9 (41.10142134213065, 29.068823142221994), 50, Hacı Muhittin Sokağı, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10142134213065,29.068823142221994 
+
+ 	 item#10 (41.09653922108282, 29.06016468454715), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09653922108282,29.06016468454715 
+
+ 	 item#11 (41.093910923920475, 29.06337075668641), Fatih Sultan Mehmet Köprüsü, Baltalimanı Hisar Caddesi, Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.093910923920475,29.06337075668641 
+
+ 	 item#12 (41.09686104657721, 29.06570916640618), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09686104657721,29.06570916640618 
+
+ 	 item#13 (41.10213798058589, 29.059519047248774), Emirgan, Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10213798058589,29.059519047248774 
+
+ 	 item#14 (41.09815957330614, 29.0525529481227), Baltalimani Serhazir Suleyman Aga Camii, Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09815957330614,29.0525529481227 
+
+ 	 item#15 (41.1054698435039, 29.05902004824014), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1054698435039,29.05902004824014 
+
+ 	 item#16 (41.097768091166934, 29.061789499815763), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.097768091166934,29.061789499815763 
+
+ 	 item#17 (41.08995027032903, 29.06197052807789), Fatih Sultan Mehmet Köprüsü, Baltalimanı Hisar Caddesi, Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08995027032903,29.06197052807789 
+
+ 	 item#18 (41.091935053706806, 29.05769184861524), Fatih Sultan Mehmet Köprüsü, Baltalimanı Hisar Caddesi, Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.091935053706806,29.05769184861524 
+
+ 	 item#19 (41.089287343699574, 29.063797352495236), Fatih Sultan Mehmet Köprüsü, Baltalimanı Hisar Caddesi, Baltalimanı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.089287343699574,29.063797352495236 
+
+ 	 item#20 (41.10185796756592, 29.056069682380603), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10185796756592,29.056069682380603 
+
+ 	 item#21 (41.09821993695457, 29.056458329382377), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09821993695457,29.056458329382377 
+
+ 	 item#22 (41.104954092662474, 29.058836089128647), Emirgan Sütiş İsbike İstasyonu, Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.104954092662474,29.058836089128647 
+
+ 	 item#23 (41.09027817722929, 29.051519565545767), Salih Bey Sokağı, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09027817722929,29.051519565545767 
+
+ 	 item#24 (41.09988882680817, 29.069218409600747), Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09988882680817,29.069218409600747 
+
+ 	 item#25 (41.097546755559954, 29.062521899280235), Piri Reis Caddesi, Kanlıca Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.097546755559954,29.062521899280235 
+
+ 	 item#26 (41.10379103991561, 29.0552334668246), Saf Saf Sokağı, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10379103991561,29.0552334668246 
+
+ 	 item#27 (41.100669088774445, 29.056039437233135), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.100669088774445,29.056039437233135 
+
+ 	 item#28 (41.1104261783667, 29.05981244324832), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1104261783667,29.05981244324832 
+
+ 	 item#29 (41.10778198699447, 29.060404025627033), Sakıp Sabancı Caddesi, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10778198699447,29.060404025627033 
+SEPETNO#12
+ 	 item#1 (41.118395083373905, 29.002779979998092), 170. Sokak, Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.118395083373905,29.002779979998092 
+
+ 	 item#2 (41.120940508213, 29.000539562015867), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.120940508213,29.000539562015867 
+
+ 	 item#3 (41.1209746171119, 29.005129114842493), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1209746171119,29.005129114842493 
+
+ 	 item#4 (41.1195197458703, 29.006683663433705), Ağaoğlu Maslak 1453, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1195197458703,29.006683663433705 
+
+ 	 item#5 (41.128165011870735, 29.000302599341378), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.128165011870735,29.000302599341378 
+
+ 	 item#6 (41.132353219965886, 28.996310884993207), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.132353219965886,28.996310884993207 
+
+ 	 item#7 (41.128587377071504, 29.001754393932465), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.128587377071504,29.001754393932465 
+
+ 	 item#8 (41.12653977443002, 29.01413056341897), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12653977443002,29.01413056341897 
+
+ 	 item#9 (41.130916973206354, 29.004498131232207), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.130916973206354,29.004498131232207 
+
+ 	 item#10 (41.119160403739265, 29.006772555048357), Ağaoğlu Maslak 1453, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.119160403739265,29.006772555048357 
+SEPETNO#13
+ 	 item#1 (41.14301035126194, 29.057856549551442), Köybaşı Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14301035126194,29.057856549551442 
+
+ 	 item#2 (41.14511148896022, 29.0627842434853), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14511148896022,29.0627842434853 
+
+ 	 item#3 (41.14868872655939, 29.06635622748011), Umuryeri, Anadolu Kavağı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 30464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14868872655939,29.06635622748011 
+
+ 	 item#4 (41.15379361329799, 29.060555883373528), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15379361329799,29.060555883373528 
+
+ 	 item#5 (41.13916616639705, 29.04897529480645), Şalçıkır Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13916616639705,29.04897529480645 
+
+ 	 item#6 (41.14218425410209, 29.04973882871477), Ada Sokağı, Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14218425410209,29.04973882871477 
+
+ 	 item#7 (41.13608030415049, 29.059027690973323), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13608030415049,29.059027690973323 
+
+ 	 item#8 (41.139890836208735, 29.0622177736514), Köybaşı Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.139890836208735,29.0622177736514 
+
+ 	 item#9 (41.15078201772716, 29.06372937632092), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15078201772716,29.06372937632092 
+
+ 	 item#10 (41.1393180224763, 29.06474429247255), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1393180224763,29.06474429247255 
+
+ 	 item#11 (41.13747792320289, 29.060642140490202), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13747792320289,29.060642140490202 
+
+ 	 item#12 (41.140841074381186, 29.055945200922483), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.140841074381186,29.055945200922483 
+
+ 	 item#13 (41.14828104335355, 29.06572467356623), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14828104335355,29.06572467356623 
+
+ 	 item#14 (41.14526607742302, 29.070063482276076), Yalıköy Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 30464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14526607742302,29.070063482276076 
+
+ 	 item#15 (41.14468008723508, 29.064914564110172), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14468008723508,29.064914564110172 
+
+ 	 item#16 (41.13971481117418, 29.053008297708644), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13971481117418,29.053008297708644 
+
+ 	 item#17 (41.145419378165116, 29.051142199526353), Kireçburnu Spor Kulübü Halı Saha, Çam Yolu Sokağı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.145419378165116,29.051142199526353 
+
+ 	 item#18 (41.13458924676534, 29.068556289595584), Köybaşı Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13458924676534,29.068556289595584 
+
+ 	 item#19 (41.139792095411615, 29.050107021251677), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.139792095411615,29.050107021251677 
+
+ 	 item#20 (41.135447360555574, 29.058139017767978), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.135447360555574,29.058139017767978 
+
+ 	 item#21 (41.153453396934594, 29.05720994858032), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.153453396934594,29.05720994858032 
+
+ 	 item#22 (41.15175236547389, 29.05733645288626), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15175236547389,29.05733645288626 
+
+ 	 item#23 (41.14413782317424, 29.052819737162945), Akgül Sokağı, Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14413782317424,29.052819737162945 
+
+ 	 item#24 (41.14650338037138, 29.059629517143517), Köybaşı Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14650338037138,29.059629517143517 
+
+ 	 item#25 (41.14627888173487, 29.06652009438381), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14627888173487,29.06652009438381 
+SEPETNO#14
+ 	 item#1 (41.10868283562469, 28.997406362304027), Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10868283562469,28.997406362304027 
+
+ 	 item#2 (41.11267204131605, 29.001097588565614), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11267204131605,29.001097588565614 
+
+ 	 item#3 (41.106959731295774, 29.00631520354932), Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.106959731295774,29.00631520354932 
+
+ 	 item#4 (41.103309856543454, 29.016046338667685), Milli Savunma Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.103309856543454,29.016046338667685 
+
+ 	 item#5 (41.10632968675566, 29.005926267364185), Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10632968675566,29.005926267364185 
+
+ 	 item#6 (41.10985468849236, 29.015407174654744), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10985468849236,29.015407174654744 
+
+ 	 item#7 (41.10215726524727, 29.003560872803696), 2. Çevreyolu, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34418, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10215726524727,29.003560872803696 
+
+ 	 item#8 (41.10954574344485, 28.99555222966384), Ayazağa Cendere Caddesi, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10954574344485,28.99555222966384 
+
+ 	 item#9 (41.10804935981891, 29.003450976291084), Maslak Ayazağa Caddesi, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10804935981891,29.003450976291084 
+
+ 	 item#10 (41.11328153695022, 28.997769803298063), Ayazağa İlkokulu, 4, Mustafa Kemal Atatürk Caddesi, Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11328153695022,28.997769803298063 
+
+ 	 item#11 (41.10620046111963, 29.01585587806566), Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10620046111963,29.01585587806566 
+
+ 	 item#12 (41.11139537163073, 29.007509629203405), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11139537163073,29.007509629203405 
+
+ 	 item#13 (41.10682108703355, 29.022925218724698), İstanbul Teknik Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10682108703355,29.022925218724698 
+
+ 	 item#14 (41.10289275758795, 29.012185558767683), Milli Savunma Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10289275758795,29.012185558767683 
+
+ 	 item#15 (41.10250795765014, 29.00338878495193), 2. Çevreyolu, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34418, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10250795765014,29.00338878495193 
+
+ 	 item#16 (41.10931160174137, 29.015906075890758), Ayazağa Ticaret Merkezi, 3, Sümer Sokağı, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34469, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10931160174137,29.015906075890758 
+
+ 	 item#17 (41.1011588181047, 29.016494246642786), Milli Savunma Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1011588181047,29.016494246642786 
+
+ 	 item#18 (41.11433571837505, 29.00326162891197), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11433571837505,29.00326162891197 
+
+ 	 item#19 (41.09946529578158, 29.011990848347892), Milli Savunma Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09946529578158,29.011990848347892 
+SEPETNO#15
+ 	 item#1 (41.14726512388864, 29.018302116501847), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14726512388864,29.018302116501847 
+
+ 	 item#2 (41.15014596657716, 29.012109136462733), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15014596657716,29.012109136462733 
+
+ 	 item#3 (41.15221518428211, 29.014795104442573), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15221518428211,29.014795104442573 
+
+ 	 item#4 (41.155995601428835, 29.014628489696413), Sümbül Sokağı, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.155995601428835,29.014628489696413 
+
+ 	 item#5 (41.14486160909115, 29.01734528639708), Fatih Ormanı Piknik Alanı Yolu, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14486160909115,29.01734528639708 
+
+ 	 item#6 (41.14754220413619, 29.022949331127858), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14754220413619,29.022949331127858 
+
+ 	 item#7 (41.15579421537722, 29.019649061302793), PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15579421537722,29.019649061302793 
+
+ 	 item#8 (41.155912489483995, 29.02741110593712), PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.155912489483995,29.02741110593712 
+
+ 	 item#9 (41.141489424297944, 29.015421774519776), Fatih Ormanı Piknik Alanı Yolu, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.141489424297944,29.015421774519776 
+
+ 	 item#10 (41.14321782843242, 29.016223373155114), Fatih Ormanı Piknik Alanı Yolu, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14321782843242,29.016223373155114 
+
+ 	 item#11 (41.15478723546162, 29.01366855300915), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15478723546162,29.01366855300915 
+
+ 	 item#12 (41.143387571949084, 29.0228974116791), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.143387571949084,29.0228974116791 
+
+ 	 item#13 (41.14745789005744, 29.014064683001056), Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14745789005744,29.014064683001056 
+
+ 	 item#14 (41.143159525091264, 29.02486375874299), Türkmenbaşı Tabiat Parkı, Büyükdere Bahçeköy Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.143159525091264,29.02486375874299 
+
+ 	 item#15 (41.14958550660258, 29.024103776565916), Hacı Osman Bayırı Caddesi, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14958550660258,29.024103776565916 
+
+ 	 item#16 (41.15384465648471, 29.019309724501987), PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15384465648471,29.019309724501987 
+
+ 	 item#17 (41.15180363438981, 29.028232130414807), Sarıyer - Çayırbaşı Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15180363438981,29.028232130414807 
+
+ 	 item#18 (41.14858223405414, 29.025108783816755), Hacı Osman Bayırı Caddesi, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14858223405414,29.025108783816755 
+SEPETNO#16
+ 	 item#1 (41.069693669269235, 29.04230963503762), Oğul Sokağı, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.069693669269235,29.04230963503762 
+
+ 	 item#2 (41.062170827874816, 29.04491116061629), Arnavutköy Kuruçeşme Caddesi, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.062170827874816,29.04491116061629 
+
+ 	 item#3 (41.06179101574587, 29.046177682455497), Arnavutköy Kuruçeşme Caddesi, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06179101574587,29.046177682455497 
+
+ 	 item#4 (41.073978231148374, 29.038990243266007), Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.073978231148374,29.038990243266007 
+
+ 	 item#5 (41.080526275137345, 29.041001247422393), Gülşen Sokağı, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.080526275137345,29.041001247422393 
+
+ 	 item#6 (41.07073633116792, 29.03370471211083), Körkadı Sokağı, Kültür Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07073633116792,29.03370471211083 
+
+ 	 item#7 (41.072530394196946, 29.027423414380657), Nursel Eczanesi, Müderris Salih Rüştü Bey Sokağı, Nispetiye Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34340, Türkiye, https://www.google.com/maps/search/?api=1&query=41.072530394196946,29.027423414380657 
+
+ 	 item#8 (41.077791522487665, 29.04358183486978), Sütsever Bebek Eczanesi, Cevdetpaşa Caddesi, Aşiyan, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.077791522487665,29.04358183486978 
+
+ 	 item#9 (41.07949294099519, 29.031394846610908), Akali, Şehit Ahmet Acarkan Sokak, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07949294099519,29.031394846610908 
+
+ 	 item#10 (41.07488601611853, 29.038167964052228), Kültür Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07488601611853,29.038167964052228 
+
+ 	 item#11 (41.06447543319906, 29.042075722460538), Kuruçeşme Koleji İsbike İstasyonu, Bebek Arnavutköy Caddesi, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06447543319906,29.042075722460538 
+
+ 	 item#12 (41.07501966867067, 29.04687161095951), Mısır Başkonsolosluğu, 12, Cevdetpaşa Caddesi, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34242, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07501966867067,29.04687161095951 
+
+ 	 item#13 (41.06862513138655, 29.04498736453873), Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06862513138655,29.04498736453873 
+
+ 	 item#14 (41.06631810349723, 29.038212498652314), Robert Koleji, Çeşme Sokağı, Arnavutköy Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06631810349723,29.038212498652314 
+
+ 	 item#15 (41.07764859446379, 29.03834003664446), Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07764859446379,29.03834003664446 
+
+ 	 item#16 (41.0800119221396, 29.034498154547563), Dilhayat Sokağı, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0800119221396,29.034498154547563 
+
+ 	 item#17 (41.08426401141925, 29.039421251673254), Boğaziçi Üniversitesi Uçaksavar Yerleşkesi, Nisbetiye Caddesi, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08426401141925,29.039421251673254 
+
+ 	 item#18 (41.06774631585577, 29.03150549755375), Dave Philips Sahası, Koru Sokağı, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06774631585577,29.03150549755375 
+
+ 	 item#19 (41.06784039482597, 29.03194829882052), Dave Philips Sahası, Koru Sokağı, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06784039482597,29.03194829882052 
+
+ 	 item#20 (41.06302566687913, 29.036483564080815), Fide Sokağı, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06302566687913,29.036483564080815 
+
+ 	 item#21 (41.07980218941978, 29.039177352133997), İğdeli Sokağı, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07980218941978,29.039177352133997 
+
+ 	 item#22 (41.0748100902889, 29.030167773356023), Sekbanlar Caddesi, Kültür Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0748100902889,29.030167773356023 
+
+ 	 item#23 (41.071612291094766, 29.04116439739859), Ercüment Ekrem Talu Sokağı, Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.071612291094766,29.04116439739859 
+
+ 	 item#24 (41.060088992189954, 29.033124729641585), Orman Sokağı, Kuruçeşme Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34345, Türkiye, https://www.google.com/maps/search/?api=1&query=41.060088992189954,29.033124729641585 
+
+ 	 item#25 (41.08744183682461, 29.04443292178568), Hikmet Büyükkuşoğlu Aile Sağlığı Merkezi, Türkan Şoray Sokağı, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08744183682461,29.04443292178568 
+
+ 	 item#26 (41.08424289488843, 29.03596791366205), Ergin Sokağı, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08424289488843,29.03596791366205 
+
+ 	 item#27 (41.07650440678593, 29.037673777706726), Bebek Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34342, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07650440678593,29.037673777706726 
+SEPETNO#17
+ 	 item#1 (41.15015149343627, 28.989440912513775), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15015149343627,28.989440912513775 
+
+ 	 item#2 (41.144685917980574, 28.98366308639889), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.144685917980574,28.98366308639889 
+
+ 	 item#3 (41.13879457878164, 28.990866133521696), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13879457878164,28.990866133521696 
+
+ 	 item#4 (41.14023893823584, 28.980890754476953), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14023893823584,28.980890754476953 
+
+ 	 item#5 (41.1398779733602, 28.973445107086672), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1398779733602,28.973445107086672 
+
+ 	 item#6 (41.13434775816122, 28.97524773461046), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13434775816122,28.97524773461046 
+
+ 	 item#7 (41.138678366363614, 28.982157018455553), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.138678366363614,28.982157018455553 
+
+ 	 item#8 (41.15200916889937, 28.98828520263881), Ortaçeşme Merası, Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15200916889937,28.98828520263881 
+
+ 	 item#9 (41.139167563018184, 28.979952562373814), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.139167563018184,28.979952562373814 
+
+ 	 item#10 (41.14148394932267, 28.986900115426117), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14148394932267,28.986900115426117 
+
+ 	 item#11 (41.144645330923375, 28.99013534443546), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.144645330923375,28.99013534443546 
+
+ 	 item#12 (41.14895941082306, 28.982949581256705), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14895941082306,28.982949581256705 
+
+ 	 item#13 (41.13787858429619, 28.985643887000794), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13787858429619,28.985643887000794 
+
+ 	 item#14 (41.13846517985185, 28.98917289135488), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13846517985185,28.98917289135488 
+
+ 	 item#15 (41.13400045569637, 28.974321346071047), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13400045569637,28.974321346071047 
+
+ 	 item#16 (41.148342209226755, 28.9732434170767), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.148342209226755,28.9732434170767 
+
+ 	 item#17 (41.14388753882455, 28.977681193978903), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14388753882455,28.977681193978903 
+
+ 	 item#18 (41.14322666534094, 28.976906408228135), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14322666534094,28.976906408228135 
+
+ 	 item#19 (41.150988756472415, 28.973441789124426), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.150988756472415,28.973441789124426 
+SEPETNO#18
+ 	 item#1 (41.06117435955524, 29.00068279653028), Öğretmen Nigar Hanım Sokağı, Fulya Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34346, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06117435955524,29.00068279653028 
+
+ 	 item#2 (41.064543581258334, 28.996369178116446), 7, Ortaklar Caddesi, Fulya Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.064543581258334,28.996369178116446 
+
+ 	 item#3 (41.06820738584602, 28.995623722185233), Ardıç Sokağı, Mecidiyeköy, Mecidiyeköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06820738584602,28.995623722185233 
+
+ 	 item#4 (41.06758879892539, 28.988759130957085), Kuştepe, Kuştepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06758879892539,28.988759130957085 
+
+ 	 item#5 (41.07456589244456, 28.995156121391698), Mecidiyeköy, Gülbahar Mahallesi, Mecidiyeköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07456589244456,28.995156121391698 
+
+ 	 item#6 (41.07380060794403, 28.982704707654644), Hürriyet, Hürriyet Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34381, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07380060794403,28.982704707654644 
+
+ 	 item#7 (41.065563474877116, 28.996752885137465), Garaj Sokak, Fulya Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34346, Türkiye, https://www.google.com/maps/search/?api=1&query=41.065563474877116,28.996752885137465 
+
+ 	 item#8 (41.060497342887984, 28.998895924251713), Sakız Ağacı Sokağı, Fulya Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34346, Türkiye, https://www.google.com/maps/search/?api=1&query=41.060497342887984,28.998895924251713 
+
+ 	 item#9 (41.069821698244326, 28.986596634204307), Ölçek Sokağı, İzzetpaşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34381, Türkiye, https://www.google.com/maps/search/?api=1&query=41.069821698244326,28.986596634204307 
+
+ 	 item#10 (41.06893235820185, 28.986572297775265), İzzetpaşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34381, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06893235820185,28.986572297775265 
+
+ 	 item#11 (41.07355987514723, 28.997321485328403), Kurtuluş Sokağı, Gülbahar Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07355987514723,28.997321485328403 
+
+ 	 item#12 (41.06510502568366, 28.99354108548389), O Ses Çiğköfte, Büyükdere Caddesi, Merkez Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06510502568366,28.99354108548389 
+SEPETNO#19
+ 	 item#1 (41.08515464969712, 29.023755398116727), Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08515464969712,29.023755398116727 
+
+ 	 item#2 (41.087934749307, 29.022389606475375), Akasya Sokağı, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.087934749307,29.022389606475375 
+
+ 	 item#3 (41.08729112759374, 29.01173130871866), Migros, Akasyalı Sokağı, Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08729112759374,29.01173130871866 
+
+ 	 item#4 (41.09316439533457, 29.02916730586725), Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09316439533457,29.02916730586725 
+
+ 	 item#5 (41.09004294533399, 29.01692051396499), Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09004294533399,29.01692051396499 
+
+ 	 item#6 (41.10016460411506, 29.02618422981759), İstanbul Teknik Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10016460411506,29.02618422981759 
+
+ 	 item#7 (41.09095931189517, 29.011666750314745), Lokkal Cafe, Göknar Sokağı, Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09095931189517,29.011666750314745 
+
+ 	 item#8 (41.09563836716425, 29.019093053859766), Orta okul, 2. Çevre Yolu, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09563836716425,29.019093053859766 
+
+ 	 item#9 (41.089256513306196, 29.020370530200818), Menekşe Sokağı, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.089256513306196,29.020370530200818 
+
+ 	 item#10 (41.09522100249547, 29.01663598488519), Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09522100249547,29.01663598488519 
+
+ 	 item#11 (41.09297204838491, 29.025978120779673), Uğur Mumcu Caddesi, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09297204838491,29.025978120779673 
+
+ 	 item#12 (41.091653274857016, 29.027925351670113), M. Kemal Kültür Mrk., Kaçar Sokağı, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.091653274857016,29.027925351670113 
+
+ 	 item#13 (41.08188856789264, 29.017026499186823), Mektep Sokağı, Levent Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08188856789264,29.017026499186823 
+
+ 	 item#14 (41.09402040648867, 29.029986222889793), Fatih Sultan Mehmet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09402040648867,29.029986222889793 
+
+ 	 item#15 (41.08583769037788, 29.020901075782582), Yıldırım Oğuz Göker Sokağı, Karanfilköy, Akat Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34335, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08583769037788,29.020901075782582 
+
+ 	 item#16 (41.0917538365593, 29.014408328331005), Şair Mehmet Emin Yurdakul İlköğretim Okulu, Şehit Yalçın Aydın Sokağı, Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34330, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0917538365593,29.014408328331005 
+SEPETNO#20
+ 	 item#1 (41.07568182795229, 28.973132872826287), S Ofis, Erkan Sokağı, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07568182795229,28.973132872826287 
+
+ 	 item#2 (41.08280953410769, 28.974823261188348), İsmetpaşa Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08280953410769,28.974823261188348 
+
+ 	 item#3 (41.09061616896642, 28.973828756081456), Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09061616896642,28.973828756081456 
+
+ 	 item#4 (41.08994641608687, 28.979735372395307), Blox Haliç Etap2 D Blok, Gül Sokak, Göksu Sitesi, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08994641608687,28.979735372395307 
+
+ 	 item#5 (41.083583520362595, 28.97135589169033), Kemerburgaz Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.083583520362595,28.97135589169033 
+
+ 	 item#6 (41.07970897378881, 28.977016315412772), Çağlayan Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34403, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07970897378881,28.977016315412772 
+
+ 	 item#7 (41.0891185371054, 28.98581586955162), Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0891185371054,28.98581586955162 
+
+ 	 item#8 (41.08256192177999, 28.978603643162305), Begonvil Sokak, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08256192177999,28.978603643162305 
+
+ 	 item#9 (41.086041417258485, 28.982322931727275), Axis Alışveriş Merkezi, Cendere Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.086041417258485,28.982322931727275 
+
+ 	 item#10 (41.08480579117564, 28.98531555909461), Yahya Kemal Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08480579117564,28.98531555909461 
+
+ 	 item#11 (41.07882065263694, 28.979251287809504), Çağlayan Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34403, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07882065263694,28.979251287809504 
+
+ 	 item#12 (41.08925196043697, 28.97523456572268), Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08925196043697,28.97523456572268 
+
+ 	 item#13 (41.087273555582854, 28.98173025108363), Axis Alışveriş Merkezi, Cendere Caddesi, Merkez Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34406, Türkiye, https://www.google.com/maps/search/?api=1&query=41.087273555582854,28.98173025108363 
+
+ 	 item#14 (41.0859943690194, 28.986266728107484), Talatpaşa Caddesi, Yahya Kemal Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34410, Türkiye, https://www.google.com/maps/search/?api=1&query=41.0859943690194,28.986266728107484 
+SEPETNO#21
+ 	 item#1 (41.11693124247196, 28.99410997306565), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11693124247196,28.99410997306565 
+SEPETNO#22
+ 	 item#1 (41.09811278448361, 28.975037975506797), Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09811278448361,28.975037975506797 
+SEPETNO#23
+ 	 item#1 (41.1099351952761, 29.017884695153498), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34469, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1099351952761,29.017884695153498 
+SEPETNO#24
+ 	 item#1 (41.073976890097185, 28.990469882313054), Alev Sokağı, Kuştepe, Kuştepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.073976890097185,28.990469882313054 
+SEPETNO#25
+ 	 item#1 (41.11842750388229, 29.021417647146496), AOS 41. Sokak, Maslak Atatürk Oto Sanayi Sitesi, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11842750388229,29.021417647146496 
+SEPETNO#26
+ 	 item#1 (41.09648202754554, 28.975228302317266), Hamidiye İmam Hatip Ortaokulu, Nizam Sokağı, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09648202754554,28.975228302317266 
+SEPETNO#27
+ 	 item#1 (41.14739170910076, 29.04436788157884), Kireçburnu Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14739170910076,29.04436788157884 
+SEPETNO#28
+ 	 item#1 (41.12985552673662, 29.010666884798443), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12985552673662,29.010666884798443 
+SEPETNO#29
+ 	 item#1 (41.12542588256347, 29.047429987532364), İstinye Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34460, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12542588256347,29.047429987532364 
+SEPETNO#30
+ 	 item#1 (41.15077716597033, 29.04551501731457), Köybaşı Caddesi, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15077716597033,29.04551501731457 
+SEPETNO#31
+ 	 item#1 (41.088224851998866, 28.975399835008954), Sevgi Sokağı, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.088224851998866,28.975399835008954 
+SEPETNO#32
+ 	 item#1 (41.14045709195829, 29.006736636761115), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14045709195829,29.006736636761115 
+SEPETNO#33
+ 	 item#1 (41.09852448692115, 29.050995136223243), Kanlikavak Deresi Sokağı, Boyacıköy, Emirgan Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09852448692115,29.050995136223243 
+SEPETNO#34
+ 	 item#1 (41.075742670078625, 28.990273670634185), Köz Sokağı, Kuştepe, Kuştepe Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.075742670078625,28.990273670634185 
+SEPETNO#35
+ 	 item#1 (41.09222418570348, 29.066820259680103), Körfez Caddesi, Anadolu Hisarı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 34810, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09222418570348,29.066820259680103 
+SEPETNO#36
+ 	 item#1 (41.123619418727905, 28.982795921133444), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.123619418727905,28.982795921133444 
+SEPETNO#37
+ 	 item#1 (41.13192109930905, 29.014003678086212), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13192109930905,29.014003678086212 
+SEPETNO#38
+ 	 item#1 (41.08153745149807, 29.032325154300086), Yıldız Çiçeği Sokak, Etiler Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34337, Türkiye, https://www.google.com/maps/search/?api=1&query=41.08153745149807,29.032325154300086 
+SEPETNO#39
+ 	 item#1 (41.129410680919754, 29.04841354265139), Adnan Kahveci Caddesi, Yeniköy Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.129410680919754,29.04841354265139 
+SEPETNO#40
+ 	 item#1 (41.10880427586388, 28.98569876076657), Macro Center, Azerbaycan Caddesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10880427586388,28.98569876076657 
+SEPETNO#41
+ 	 item#1 (41.108704810475245, 29.02176241790669), Urban Station Turkey - Maslak, 85, Katar Caddesi, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.108704810475245,29.02176241790669 
+SEPETNO#42
+ 	 item#1 (41.121937840435315, 28.993202068788406), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.121937840435315,28.993202068788406 
+SEPETNO#43
+ 	 item#1 (41.15587294795072, 29.026107457655066), Sarıyer - Çayırbaşı Yolu, PTT Evleri Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15587294795072,29.026107457655066 
+SEPETNO#44
+ 	 item#1 (41.14378999780773, 29.033151811565407), Kefeliköy, Cumhuriyet Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14378999780773,29.033151811565407 
+SEPETNO#45
+ 	 item#1 (41.15305652051633, 29.06040943878313), Tarabya Plajı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15305652051633,29.06040943878313 
+SEPETNO#46
+ 	 item#1 (41.062582158859335, 29.019074068568624), Özlem Sokağı, Levazım Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34394, Türkiye, https://www.google.com/maps/search/?api=1&query=41.062582158859335,29.019074068568624 
+SEPETNO#47
+ 	 item#1 (41.09139432965268, 28.977675960178537), Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09139432965268,28.977675960178537 
+SEPETNO#48
+ 	 item#1 (41.13820096309979, 29.00442231475907), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13820096309979,29.00442231475907 
+SEPETNO#49
+ 	 item#1 (41.13200825818996, 28.995073178675202), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13200825818996,28.995073178675202 
+SEPETNO#50
+ 	 item#1 (41.14335238296665, 29.042039208570152), Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14335238296665,29.042039208570152 
+SEPETNO#51
+ 	 item#1 (41.129547162472235, 29.012507256215354), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.129547162472235,29.012507256215354 
+SEPETNO#52
+ 	 item#1 (41.152517089794884, 29.06239925250426), Umuryeri, Anadolu Kavağı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 30464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.152517089794884,29.06239925250426 
+SEPETNO#53
+ 	 item#1 (41.149444398109644, 28.971968985702922), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.149444398109644,28.971968985702922 
+SEPETNO#54
+ 	 item#1 (41.10376744130605, 28.983443144317114), 215. Sokak, Vadistanbul Teras Sitesi, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10376744130605,28.983443144317114 
+SEPETNO#55
+ 	 item#1 (41.117348558306205, 28.991913835937737), 180. Sokak, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.117348558306205,28.991913835937737 
+SEPETNO#56
+ 	 item#1 (41.134466167471516, 28.97520019954841), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.134466167471516,28.97520019954841 
+SEPETNO#57
+ 	 item#1 (41.11637013595669, 29.0137047221803), Ağaoğlu Maslak 1453, Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11637013595669,29.0137047221803 
+SEPETNO#58
+ 	 item#1 (41.098705122304985, 28.983244365497058), Yılıdırım Market, Gökhan Sokağı, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34418, Türkiye, https://www.google.com/maps/search/?api=1&query=41.098705122304985,28.983244365497058 
+SEPETNO#59
+ 	 item#1 (41.101620672119736, 29.02574203676581), İstanbul Teknik Üniversitesi, Ağaçlı Yol, Reşitpaşa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34467, Türkiye, https://www.google.com/maps/search/?api=1&query=41.101620672119736,29.02574203676581 
+SEPETNO#60
+ 	 item#1 (41.10388351719844, 28.993529385566095), Metin Oktay Caddesi, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10388351719844,28.993529385566095 
+SEPETNO#61
+ 	 item#1 (41.09074259425557, 28.98179596474335), Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09074259425557,28.98179596474335 
+SEPETNO#62
+ 	 item#1 (41.09736209284089, 29.011908962564217), Yenilevent, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 80650, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09736209284089,29.011908962564217 
+SEPETNO#63
+ 	 item#1 (41.09518887739292, 29.02033559606447), 2. Çevre Yolu, Konaklar Mahallesi, Beşiktaş, İstanbul, Marmara Bölgesi, 34334, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09518887739292,29.02033559606447 
+SEPETNO#64
+ 	 item#1 (41.118852298162, 28.979156607507576), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.118852298162,28.979156607507576 
+SEPETNO#65
+ 	 item#1 (41.13105776952042, 28.99639376499278), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13105776952042,28.99639376499278 
+SEPETNO#66
+ 	 item#1 (41.11936665563559, 28.975154973766216), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11936665563559,28.975154973766216 
+SEPETNO#67
+ 	 item#1 (41.09184478965169, 28.97350791728928), Ekrem Cevahir Anadolu İmam Hatip Lisesi, Yunus Sokağı, Hamidiye Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34408, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09184478965169,28.97350791728928 
+SEPETNO#68
+ 	 item#1 (41.1018327146831, 28.98904257133392), Metin Oktay Caddesi, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1018327146831,28.98904257133392 
+SEPETNO#69
+ 	 item#1 (41.087185749899945, 29.050072840200173), Hisarüstü Nispetiye Caddesi, Rumelihisarı Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34470, Türkiye, https://www.google.com/maps/search/?api=1&query=41.087185749899945,29.050072840200173 
+SEPETNO#70
+ 	 item#1 (41.14906528933113, 29.067571772071062), Umuryeri, Anadolu Kavağı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 30464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14906528933113,29.067571772071062 
+SEPETNO#71
+ 	 item#1 (41.159931250495326, 29.069415502411605), Anadolu Kavağı Mahallesi, Beykoz, İstanbul, Marmara Bölgesi, 30464, Türkiye, https://www.google.com/maps/search/?api=1&query=41.159931250495326,29.069415502411605 
+SEPETNO#72
+ 	 item#1 (41.13500824705705, 28.984185368283573), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13500824705705,28.984185368283573 
+SEPETNO#73
+ 	 item#1 (41.09763667643422, 28.988266144137764), Cansız Sokağı, Seyrantepe Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34398, Türkiye, https://www.google.com/maps/search/?api=1&query=41.09763667643422,28.988266144137764 
+SEPETNO#74
+ 	 item#1 (41.1531106412674, 28.971664718780207), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.1531106412674,28.971664718780207 
+SEPETNO#75
+ 	 item#1 (41.07418479438272, 28.99391985119021), Mecidiyeköy, Gülbahar Mahallesi, Mecidiyeköy Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34387, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07418479438272,28.99391985119021 
+SEPETNO#76
+ 	 item#1 (41.119920926918354, 28.993936540753847), 208. Sokak, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.119920926918354,28.993936540753847 
+SEPETNO#77
+ 	 item#1 (41.06574591727116, 28.985216992909688), Şişli Mesleki ve Teknik Anadolu Lisesi, Darülaceze Caddesi, Bomonti, Merkez Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06574591727116,28.985216992909688 
+SEPETNO#78
+ 	 item#1 (41.11903032831761, 28.994735787843517), Ayazağa, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34396, Türkiye, https://www.google.com/maps/search/?api=1&query=41.11903032831761,28.994735787843517 
+SEPETNO#79
+ 	 item#1 (41.13976501232149, 29.006190036986673), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13976501232149,29.006190036986673 
+SEPETNO#80
+ 	 item#1 (41.07694310193825, 28.98490522937291), Çağlayan Mahallesi, Kâğıthane, İstanbul, Marmara Bölgesi, 34403, Türkiye, https://www.google.com/maps/search/?api=1&query=41.07694310193825,28.98490522937291 
+SEPETNO#81
+ 	 item#1 (41.10408960670011, 28.991454157196387), Nef Stadyumu, Metin Oktay Caddesi, Huzur Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34485, Türkiye, https://www.google.com/maps/search/?api=1&query=41.10408960670011,28.991454157196387 
+SEPETNO#82
+ 	 item#1 (41.13916338762554, 29.04503532967514), Hoca Ahmet Yesevi Sokağı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13916338762554,29.04503532967514 
+SEPETNO#83
+ 	 item#1 (41.14164333741684, 29.03922731889524), Detay Sokağı, Tarabya Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34457, Türkiye, https://www.google.com/maps/search/?api=1&query=41.14164333741684,29.03922731889524 
+SEPETNO#84
+ 	 item#1 (41.13747820223385, 29.008911883227032), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13747820223385,29.008911883227032 
+SEPETNO#85
+ 	 item#1 (41.13521140821611, 28.997305901552696), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13521140821611,28.997305901552696 
+SEPETNO#86
+ 	 item#1 (41.15655665244571, 28.97696272603209), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.15655665244571,28.97696272603209 
+SEPETNO#87
+ 	 item#1 (41.06111212327487, 28.97063812228476), Perpa Ticaret Merkezi, Perpa Sokağı, Okmeydanı, Halil Rıfat Paşa Mahallesi, Şişli, İstanbul, Marmara Bölgesi, 34384, Türkiye, https://www.google.com/maps/search/?api=1&query=41.06111212327487,28.97063812228476 
+SEPETNO#88
+ 	 item#1 (41.13752541058695, 29.001345175144852), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13752541058695,29.001345175144852 
+SEPETNO#89
+ 	 item#1 (41.13849643789632, 29.009189380342068), Bahçeköy Kemer Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34473, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13849643789632,29.009189380342068 
+SEPETNO#90
+ 	 item#1 (41.138296967889595, 29.013116160441726), Fatih Ormanı Piknik Alanı Yolu, Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, Türkiye, https://www.google.com/maps/search/?api=1&query=41.138296967889595,29.013116160441726 
+SEPETNO#91
+ 	 item#1 (41.12877659257737, 29.01245534794707), Maslak Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.12877659257737,29.01245534794707 
+SEPETNO#92
+ 	 item#1 (41.13578731621981, 29.008347268796754), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34453, Türkiye, https://www.google.com/maps/search/?api=1&query=41.13578731621981,29.008347268796754 
+SEPETNO#93
+ 	 item#1 (41.159349598678, 28.97409667860399), Ayazağa Mahallesi, Sarıyer, İstanbul, Marmara Bölgesi, 34075, Türkiye, https://www.google.com/maps/search/?api=1&query=41.159349598678,28.97409667860399 
